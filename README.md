@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RohitSingh-45/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Array
+|  |
+| ------- |
+| [1470-shuffle-the-array](https://github.com/RohitSingh-45/LEETCODE/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
