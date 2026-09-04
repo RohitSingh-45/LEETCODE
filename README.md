@@ -22,9 +22,14 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/RohitSingh-45/LEETCODE/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RohitSingh-45/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RohitSingh-45/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/RohitSingh-45/LEETCODE/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RohitSingh-45/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
