@@ -36,5 +36,10 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/RohitSingh-45/LEETCODE/tree/master/0118-pascals-triangle) |
 | [1470-shuffle-the-array](https://github.com/RohitSingh-45/LEETCODE/tree/master/1470-shuffle-the-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/RohitSingh-45/LEETCODE/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
