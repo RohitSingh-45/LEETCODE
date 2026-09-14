@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RohitSingh-45/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/RohitSingh-45/LEETCODE/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/RohitSingh-45/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RohitSingh-45/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/RohitSingh-45/LEETCODE/tree/master/0118-pascals-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RohitSingh-45/LEETCODE/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RohitSingh-45/LEETCODE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
