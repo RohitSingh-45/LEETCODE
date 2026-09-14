@@ -4,10 +4,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RohitSingh-45/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohitSingh-45/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RohitSingh-45/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohitSingh-45/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/RohitSingh-45/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Queue
@@ -23,6 +25,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohitSingh-45/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/RohitSingh-45/LEETCODE/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/RohitSingh-45/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/RohitSingh-45/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RohitSingh-45/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RohitSingh-45/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
