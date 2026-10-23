@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RohitSingh-45/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/RohitSingh-45/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohitSingh-45/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/RohitSingh-45/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Queue
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohitSingh-45/LEETCODE/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/RohitSingh-45/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/RohitSingh-45/LEETCODE/tree/master/0118-pascals-triangle) |
 | [1470-shuffle-the-array](https://github.com/RohitSingh-45/LEETCODE/tree/master/1470-shuffle-the-array) |
 ## Dynamic Programming
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohitSingh-45/LEETCODE/tree/master/0002-add-two-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RohitSingh-45/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
