@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RohitSingh-45/LEETCODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RohitSingh-45/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohitSingh-45/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -41,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RohitSingh-45/LEETCODE/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/RohitSingh-45/LEETCODE/tree/master/0118-pascals-triangle) |
 | [1470-shuffle-the-array](https://github.com/RohitSingh-45/LEETCODE/tree/master/1470-shuffle-the-array) |
 ## Dynamic Programming
